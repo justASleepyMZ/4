@@ -1,21 +1,29 @@
 {
-  "name": "aitutoken-as4",
+  "name": "mz",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "MZ",
   "license": "ISC",
   "type": "commonjs",
-  "description": "",
+  "description": "d",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.22.18"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^5.2.0",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "react": "^19.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "4"
   }
 }
